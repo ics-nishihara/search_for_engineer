@@ -1,0 +1,13 @@
+#search-for-engineer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+#search-for-engineer .gsc-control-cse .gs-spelling, #search-for-engineer .gsc-control-cse .gs-result .gs-title, #search-for-engineer .gsc-control-cse .gs-result .gs-title * {
+  font-size: 20px;
+}
+#search-for-engineer .gsc-table-result {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+/*# sourceMappingURL=style.css.map */

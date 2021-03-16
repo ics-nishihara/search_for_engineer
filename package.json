@@ -1,0 +1,15 @@
+{
+  "name": "search_for_engineer",
+  "version": "1.0.0",
+  "repository": "https://github.com/ics-nishihara/search_for_engineer",
+  "author": "ics-nishihara <nishihara@ics-web.jp>",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass --watch style.scss:style.css",
+    "format": "prettier \"**/*.html\" --write"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1",
+    "sass": "1.32.8"
+  }
+}
