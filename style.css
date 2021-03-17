@@ -1,13 +1,48 @@
-#search-for-engineer {
+.global-wrapper {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 32px auto;
 }
+
+.logo {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
 #search-for-engineer .gsc-control-cse .gs-spelling, #search-for-engineer .gsc-control-cse .gs-result .gs-title, #search-for-engineer .gsc-control-cse .gs-result .gs-title * {
   font-size: 20px;
 }
 #search-for-engineer .gsc-table-result {
   font-size: 14px;
   line-height: 1.7;
+}
+#search-for-engineer .gsc-input-box {
+  border-radius: 26px;
+}
+#search-for-engineer .gsib_a {
+  padding: 16px 24px;
+}
+#search-for-engineer .gsst_b {
+  padding: 0 16px;
+}
+#search-for-engineer .gsc-search-button-v2 {
+  padding: 18px;
+  border-radius: 26px;
+  cursor: pointer;
+}
+#search-for-engineer form.gsc-search-box {
+  margin-bottom: 24px;
+}
+#search-for-engineer .gsc-results .gsc-cursor-box {
+  margin-top: 24px;
+  border-top: 1px solid #dfe1e5;
+  padding-top: 24px;
+}
+#search-for-engineer .gsc-results .gsc-cursor-box .gsc-cursor-page {
+  display: inline-block;
+  width: 16px;
+  font-size: 18px;
+  text-align: center;
+  padding: 8px;
 }
 
 /*# sourceMappingURL=style.css.map */
